@@ -5,7 +5,8 @@
 **Goal** Develop AI systems that efficiently learn new skills and solve open-ended problems, rather than depend exclusively on AI systems trained with extensive datasets.
 
 **Link** https://www.kaggle.com/competitions/arc-prize-2024/data
-Visualization of task: https://arcprize.org/play
+
+**Visualization of task** https://arcprize.org/play
 
 ## Repository
 
